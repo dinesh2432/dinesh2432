@@ -7,7 +7,7 @@
 <!-- Header Section with Improved Design -->
 <div align="center">
    <!-- Add your profile photo here -->
-   <a href="https://github.com/dinesh2432"><img src="https://avatars.githubusercontent.com/u/170288353?v=4" alt="Dinesh K" width="200" height="200" style="border-radius:100%;" /></a>
+   <a href="https://github.com/dinesh2432"><img src="https://avatars.githubusercontent.com/u/170288353?v=4" alt="Dinesh K" width="200" height="200" style="border-radius:50%;" /></a>
 <!--   <img src="https://github.com/just-bm.png" alt="Balamurugan T" width="200" height="200" style="border-radius:100%;" /> -->
   
   <h1>✨ DINESH K ✨</h1>
